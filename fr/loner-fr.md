@@ -994,7 +994,7 @@ Cette méthode est utile quand :
 | Noms | 1 | 2 | 3 | 4 | 5 | 6 |
 |:----:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | Cause | Scène | Changement | Poésie | Frisson | Repère |
-| 2 | Font | Événement | Maison | Sac | Mesure | Naissance |
+| 2 | Front | Événement | Maison | Sac | Mesure | Naissance |
 | 3 | Prose | Mouvement | Échange | Mémoire | Chance | Chute |
 | 4 | Instrument | Ami | Discussion | Liquide | Fait | Prix |
 | 5 | Mot | Matin | Limite | Chambre | Système | Camp |
